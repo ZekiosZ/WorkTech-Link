@@ -1,17 +1,14 @@
 {
-  "name": "backend",
+  "name": "worktech-backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "type": "module",  
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "axios": "^1.13.2",
     "cors": "^2.8.5",
-    "express": "^5.1.0"
+    "express": "^4.19.2"
   }
 }

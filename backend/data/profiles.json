@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Walter Toledo",
+    "area": "Desenvolvimento Full Stack",
+    "senioridade": "Pleno",
+    "descricao": "Desenvolvedor com experiência em React, Node.js e banco de dados.",
+    "avatar": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Theodoro Sievers",
+    "area": "UI/UX Design",
+    "senioridade": "Sênior",
+    "descricao": "Designer especializado em experiência do usuário e design de interfaces.",
+    "avatar": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "José Rafael",
+    "area": "Gestão de Projetos",
+    "senioridade": "Júnior",
+    "descricao": "Profissional focado em gestão ágil e planejamento estratégico.",
+    "avatar": "https://randomuser.me/api/portraits/men/33.jpg"
+  }
+]
