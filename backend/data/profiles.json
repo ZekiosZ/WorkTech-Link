@@ -5466,10 +5466,10 @@
     "id": 102,
     "nome": "Walter Henrique Pereira de Toledo",
     "foto": "/Walter.jpeg",
-    "cargo": "Growth Specialist",
+    "cargo": "Cyber security na Microsoft",
     "resumo": "Profissional com experiência em equipes multidisciplinares e foco em resultados.",
-    "localizacao": "Salvador, BA",
-    "area": "Marketing",
+    "localizacao": "São Paulo, SP",
+    "area": "Cybersecurity",
     "senioridade": "Sênior",
     "habilidadesTecnicas": [
       "Analytics",
@@ -5484,34 +5484,36 @@
     ],
     "experiencias": [
       {
-        "empresa": "Empresa 5",
-        "periodo": "2023 - Atual",
-        "descricao": "Atuação em projetos colaborativos usando metodologias ágeis."
+        "empresa": "Microsoft",
+        "periodo": "2006 - Atual",
+        "descricao": "Cyber security focado em proteção de dados e sistemas."
       }
     ],
     "formacao": [
       {
-        "curso": "Administração",
-        "instituicao": "Universidade Federal",
-        "conclusao": "2019"
+        "curso": "Engenharia de software",
+        "instituicao": "Fiap Paulista",
+        "conclusao": "2028"
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto de Destaque",
-        "descricao": "Projeto desenvolvido com foco em inovação e melhoria contínua."
+        "titulo": "Cyber security avançado",
+        "descricao": "Projetos de Segurança cibernética para proteger informações sensíveis."
       }
     ],
     "certificacoes": [
       "Scrum Fundamentals",
-      "Inglês Intermediário"
+      "Inglês Intermediário",
+      "Japonês Básico"
     ],
     "idiomas": [
       "Português",
-      "Inglês"
+      "Inglês",
+      "Japonês"
     ],
     "areaInteresses": [
-      "Marketing",
+      "Cybersecurity",
       "Inovação",
       "Desenvolvimento profissional"
     ]
@@ -5520,10 +5522,10 @@
     "id": 103,
     "nome": "Theodoro Sievers",
     "foto": "/Theo.jpg",
-    "cargo": "Growth Specialist",
+    "cargo": "Designer Gráfico na Wolf Olins",
     "resumo": "Profissional com experiência em equipes multidisciplinares e foco em resultados.",
-    "localizacao": "Salvador, BA",
-    "area": "Marketing",
+    "localizacao": "São Paulo, SP",
+    "area": "Designer Gráfico",
     "senioridade": "Sênior",
     "habilidadesTecnicas": [
       "Analytics",
@@ -5538,27 +5540,27 @@
     ],
     "experiencias": [
       {
-        "empresa": "Empresa 5",
-        "periodo": "2023 - Atual",
-        "descricao": "Atuação em projetos colaborativos usando metodologias ágeis."
+        "empresa": "Wolf Olins",
+        "periodo": "2020 - Atual",
+        "descricao": "Atuação em big projects de rebranding corporativo."
       }
     ],
     "formacao": [
       {
-        "curso": "Administração",
-        "instituicao": "Universidade Federal",
-        "conclusao": "2019"
+        "curso": "Engenharia de software",
+        "instituicao": "Fiap Paulista",
+        "conclusao": "2028"
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto de Destaque",
-        "descricao": "Projeto desenvolvido com foco em inovação e melhoria contínua."
+        "titulo": "Rebranding Corporativo",
+        "descricao": "Projeto grafico focado em inovação e melhoria contínua."
       }
     ],
     "certificacoes": [
       "Scrum Fundamentals",
-      "Inglês Intermediário"
+      "Inglês fluente"
     ],
     "idiomas": [
       "Português",
